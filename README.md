@@ -1,5 +1,5 @@
 # hello-world
-frist time setup 
-I'm a scrum nmaster learning to code 
+first time setup 
+I'm a scrum-master learning to code 
 
-learning is fun
+learning is fun!
